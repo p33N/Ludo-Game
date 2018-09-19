@@ -1,0 +1,7 @@
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\obj\Debug\Ludo Game Master 2018.csprojResolveAssemblyReference.cache
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\obj\Debug\Ludo Game Master 2018.csproj.CoreCompileInputs.cache
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\bin\Debug\Ludo Game Master 2018.exe.config
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\bin\Debug\Ludo Game Master 2018.exe
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\bin\Debug\Ludo Game Master 2018.pdb
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\obj\Debug\Ludo Game Master 2018.exe
+C:\Users\djeco\Desktop\Shit\Skole\SDE\HF - Objektorienteret Programmering\Ludo Game Master 2018\Ludo Game Master 2018\obj\Debug\Ludo Game Master 2018.pdb
