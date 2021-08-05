@@ -1,5 +1,5 @@
 # Ludo Game - H1 - Syddansk Erhvervsskole
-## Dato: -
+## Dato: -||-
 
 Opgave beskrivelse:
 testing af bygning af mit eget ludo spil.
